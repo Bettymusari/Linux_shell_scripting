@@ -36,6 +36,11 @@ The script can be used to generate multiplication table for any number
 The script:
 [the script](./img/8.%20the%20script.png)
 
+The changes to README.md were staged and first commit made [git add](./img/git%20add.png)
+
+The last changes were also staged, and final cmmits.
+These changes were then pushed to my Github repository
+
 
 
 
